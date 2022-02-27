@@ -2,6 +2,6 @@
 
 Movement Joueur1 : Flèche directionnelle
 
-Movement Joueur1 : ZQSD
+Movement Joueur2 : ZQSD
 
 Pour quitter le mode de vue aerienne : espace
