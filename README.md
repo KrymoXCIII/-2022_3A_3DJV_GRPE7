@@ -1,7 +1,7 @@
 # -2022_3A_3DJV_GRPE7
 
-Movement Joueur1 : Flèche directionnelle
+Mouvement Joueur1 : Flèches directionnelles
 
-Movement Joueur2 : ZQSD
+Mouvement Joueur2 : ZQSD
 
 Pour quitter le mode de vue aerienne : espace
